@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ALEX Release Notes
 layout: home
 ---
 

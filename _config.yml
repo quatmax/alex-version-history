@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ALEX Version History
+description: ALEX Version History
 theme: just-the-docs
+logo: "/assets/images/ALEX.png"
+favicon_ico: "/assets/images/favicon_ico.png"
 
-url: https://just-the-docs.github.io
+url: https://quatmax.github.io/alex-version-history
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
