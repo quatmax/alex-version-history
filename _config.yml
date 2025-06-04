@@ -3,6 +3,7 @@ description: ALEX Version History
 theme: just-the-docs
 logo: "/assets/images/alex.svg"
 favicon_ico: "/assets/images/favicon.ico"
+color_scheme: bitfactory
 
 url: https://quatmax.github.io/alex-version-history
 
