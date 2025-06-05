@@ -6,12 +6,16 @@ nav_order: 0
 
 Neue {{Alex}}-Versionen erscheinen im Monatszyklus und sind automatisch installierbar. Dabei werden folgende Zyklen erzeugt:
 
-* Development-Version: Subnummer wird laufend erhöht und mit Monatserstem zu Stabilize 
-** _[Jahr] . [(ZielMonat * 2) - 1] . 90 . Bugfix_
-* Stabilize-Version: nur Showstopper, wird am Monatsersten zu Release 
-** _[Jahr] . [(ZielMonat * 2) - 1] . 99 . Bugfix_
-* Release-Version: nur mehr Hotfixes 
-** _[Jahr] . [ZielMonat * 2] . 0 . Bugfix_
+* Development-Version: Subnummer wird laufend erhöht und mit Monatserstem zu Stabilize `_[Jahr] . [(ZielMonat * 2) - 1] . 90 . Bugfix_`
+* Stabilize-Version: nur Showstopper, wird am Monatsersten zu Release `_[Jahr] . [(ZielMonat * 2) - 1] . 99 . Bugfix_`
+* Release-Version: nur mehr Hotfixes `_[Jahr] . [ZielMonat * 2] . 0 . Bugfix_`
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 {| class="wikitable" border="1" style="border-collapse:collapse; border-color:#E8E8E8" cellspacing="0" cellpadding="5"  
 |- style="background-color:#3C3C58; color:#FFFFFF; text-align:left" 
