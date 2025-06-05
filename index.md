@@ -11,10 +11,11 @@ Neue Alex-Versionen erscheinen im Monatszyklus. Folgendes gilt:
 * Release-Version: nur mehr Hotfixes 
 
 Das Schame der Versionsnummer ist wie folgt, wobei:
- YYYY = Jahr vierstellig
- M = Monatsnummer
- N = fortlaufende Nummer
-
+```
+YYYY = Jahr vierstellig
+M = Monatsnummer
+N = fortlaufende Nummer
+```
 |**Version**| **Major** |**Minormajor**|**Minorminor**|**Bugfix**|
 |:----------|:----------|:-------------|:-------------|:---------|
 |development|`YYYY`     |`(M * 2) - 1` |`90`          |`N`       |
