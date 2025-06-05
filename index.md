@@ -23,6 +23,7 @@ N = fortlaufende Nummer
 |stabilize  |`YYYY`     |`(M * 2) - 1` |`99`          |`N`       |
 |master     |`YYYY`     |`(M * 2)`     |`0`           |`N`       |
 
+Beispiel:
 
 |**Zeitpunkt**|**Jänner Version**|**Februar Version**|**März Version**|**April Version**|
 |:------------|:-----------------|:------------------|:---------------|:----------------|
