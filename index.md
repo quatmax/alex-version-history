@@ -13,11 +13,11 @@ Neue Alex-Versionen erscheinen im Monatszyklus. Folgendes gilt:
 * Release-Version: nur mehr Hotfixes 
 >> `_[Jahr] . [ZielMonat * 2] . 0 . Bugfix_`
 
-|**Zeitpunkt** |**Jänner Version** |**Februar Version** |**März Version** |**April Version** |
-|:-------------|:------------------|:-------------------|:----------------|:-----------------|
-|im Januar     |`JJJJ.02.00`       |`JJJJ.03.99`        |`JJJJ.05.90`     |                  |
-|im Februar    |                   |`JJJJ.04.00`        |`JJJJ.05.99`     |`JJJJ.07.90`      |
-|im März       |                   |                    |`JJJJ.06.00`     |`JJJJ.07.99`      |
-|im April      |                   |                    |                 |`JJJJ.08.00`      |
+|**Zeitpunkt**|**Jänner Version**|**Februar Version**|**März Version**|**April Version**|
+|:------------|:-----------------|:------------------|:---------------|:----------------|
+|im Januar    |`JJJJ.02.00`      |`JJJJ.03.99`       |`JJJJ.05.90`    |                 |
+|im Februar   |                  |`JJJJ.04.00`       |`JJJJ.05.99`    |`JJJJ.07.90`     |
+|im März      |                  |                   |`JJJJ.06.00`    |`JJJJ.07.99`     |
+|im April     |                  |                   |                |`JJJJ.08.00`     |
 
 ----
