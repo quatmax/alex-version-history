@@ -10,7 +10,7 @@ Neue Alex-Versionen erscheinen im Monatszyklus. Folgendes gilt:
 * Stabilize-Version: nur Showstopper, wird am Monatsersten zu Release 
 * Release-Version: nur mehr Hotfixes 
 
-Das Schame der Versionsnummer ist wie folgt, wobei:
+Das Schema der Versionsnummer ist wie folgt, wobei:
 ```
 YYYY = Jahr vierstellig
 M = Monatsnummer
