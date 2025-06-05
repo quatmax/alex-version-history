@@ -16,6 +16,7 @@ YYYY = Jahr vierstellig
 M = Monatsnummer
 N = fortlaufende Nummer
 ```
+
 |**Version**| **Major** |**Minormajor**|**Minorminor**|**Bugfix**|
 |:----------|:----------|:-------------|:-------------|:---------|
 |development|`YYYY`     |`(M * 2) - 1` |`90`          |`N`       |
