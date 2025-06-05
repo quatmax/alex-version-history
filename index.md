@@ -1,6 +1,7 @@
 ---
 title: ALEX Release Notes
 layout: home
+nav_order: 0
 ---
 
 Neue {{Alex}}-Versionen erscheinen im Monatszyklus und sind automatisch installierbar. Dabei werden folgende Zyklen erzeugt:
