@@ -10,70 +10,11 @@ Neue {{Alex}}-Versionen erscheinen im Monatszyklus und sind automatisch installi
 * Stabilize-Version: nur Showstopper, wird am Monatsersten zu Release `_[Jahr] . [(ZielMonat * 2) - 1] . 99 . Bugfix_`
 * Release-Version: nur mehr Hotfixes `_[Jahr] . [ZielMonat * 2] . 0 . Bugfix_`
 
-|**Zeitpunkt** |**Jänner Version** |**Februar Version** |**März Version** |**April Version** |**Mai Version** |**Juni Version** |**Juli Version** |
-|:-------------|:------------------|:------|:------|:------|:------|:------|:------|
-| ok           | good swedish fish | nice  ||||||
-| out of stock | good and plenty   | nice  ||||||
-| ok           | good `oreos`      | hmm   ||||||
-| ok           | good `zoute` drop | yumm  ||||||
-
-{| class="wikitable" border="1" style="border-collapse:collapse; border-color:#E8E8E8" cellspacing="0" cellpadding="5"  
-|- style="background-color:#3C3C58; color:#FFFFFF; text-align:left" 
-|**Zeitpunkt** |**Jänner Version** |**Februar Version** |**März Version** |**April Version** |**Mai Version** |**Juni Version** |**Juli Version** 
-|- style="vertical-align:top"
-|im Januar
-|JJJJ.02.00
-|JJJJ.03.99 
-|JJJJ.05.90
-|
-|
-|
-|
-|- style="background-color:#FFFFFF; text-align:left"
-|im Februar
-|
-|JJJJ.04.00
-|JJJJ.05.99
-|JJJJ.07.90 
-|
-|
-|
-|- style="background-color:#FFFFFF; text-align:left"
-|im März
-|
-|
-|JJJJ.06.00
-|JJJJ.07.99
-|JJJJ.09.90
-|
-|
-|- style="background-color:#FFFFFF; text-align:left"
-|im April
-|[[Datei:Balken grau 600.jpg|100px]]
-|[[Datei:Balken grau 600.jpg|100px]]
-|[[Datei:Balken grau 600.jpg|100px]]
-|JJJJ.08.00
-|JJJJ.09.99
-|JJJJ.11.90
-|
-|-
-|im Mai
-|
-|
-|
-|
-|JJJJ.10.00
-|JJJJ.11.99
-|JJJJ.13.90
-|-
-|usw.
-|
-|
-|
-|
-|
-|
-|
-|}
+|**Zeitpunkt** |**Jänner Version** |**Februar Version** |**März Version** |**April Version** |
+|:-------------|:------------------|:------|:------|:------|
+|im Januar |JJJJ.02.00 |JJJJ.03.99 |JJJJ.05.90 ||
+|im Februar||JJJJ.04.00 |JJJJ.05.99 |JJJJ.07.90 |
+|im März |||JJJJ.06.00 |JJJJ.07.99 |
+|im April||||JJJJ.08.00|
 
 ----
