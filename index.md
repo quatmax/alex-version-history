@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-Neue {{Alex}}-Versionen erscheinen im Monatszyklus und sind automatisch installierbar. Dabei werden folgende Zyklen erzeugt:
+Neue Alex-Versionen erscheinen im Monatszyklus und sind automatisch installierbar. Dabei werden folgende Zyklen erzeugt:
 
 * Development-Version: Subnummer wird laufend erhöht und mit Monatserstem zu Stabilize `_[Jahr] . [(ZielMonat * 2) - 1] . 90 . Bugfix_`
 * Stabilize-Version: nur Showstopper, wird am Monatsersten zu Release `_[Jahr] . [(ZielMonat * 2) - 1] . 99 . Bugfix_`
