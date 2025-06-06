@@ -13,3 +13,13 @@ aux_links:
 aux_links_new_tab: true
 
 search_enabled: true
+
+collections:
+  archive:
+    output: true
+
+just_the_docs:
+  collections:
+    archive:
+      name: Archive
+      nav_fold: true
